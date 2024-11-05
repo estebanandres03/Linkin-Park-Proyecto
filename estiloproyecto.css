@@ -1,7 +1,8 @@
 /*
 Estilo de la página web
 */
-
 #banner {
-    
+    width: 200%;
+    height: auto;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c74454d-043a-435f-af78-aa21a4777adb/d65yy9a-79dd9684-4d25-4e25-8261-359db6c3ad75.jpg/v1/fill/w_1366,h_500,q_75,strp/linkin_park_banner_by_lpik_d65yy9a-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvNmM3NDQ1NGQtMDQzYS00MzVmLWFmNzgtYWEyMWE0Nzc3YWRiXC9kNjV5eTlhLTc5ZGQ5Njg0LTRkMjUtNGUyNS04MjYxLTM1OWRiNmMzYWQ3NS5qcGciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NgmmKRcY_YrL089AwmBBYqnyhwNjwxFLVzdQrcvbjBU);
 }
