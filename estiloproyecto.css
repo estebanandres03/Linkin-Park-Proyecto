@@ -2,7 +2,33 @@
 Estilo de la página web
 */
 #banner {
-    width: 200%;
-    height: auto;
-    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6c74454d-043a-435f-af78-aa21a4777adb/d65yy9a-79dd9684-4d25-4e25-8261-359db6c3ad75.jpg/v1/fill/w_1366,h_500,q_75,strp/linkin_park_banner_by_lpik_d65yy9a-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvNmM3NDQ1NGQtMDQzYS00MzVmLWFmNzgtYWEyMWE0Nzc3YWRiXC9kNjV5eTlhLTc5ZGQ5Njg0LTRkMjUtNGUyNS04MjYxLTM1OWRiNmMzYWQ3NS5qcGciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NgmmKRcY_YrL089AwmBBYqnyhwNjwxFLVzdQrcvbjBU);
+    width: 3700px;
+    height: 200px;
+    position: sticky;
+    top: 0%;
+    align-content: center;
+    left: 0%;
+    background-image: url(https://i.pinimg.com/originals/a2/70/3e/a2703e75dc6f5707fb4e9d6622a7901a.jpg);
+    background-repeat: no-repeat;
+    background-size: 55% 120%;
+}
+h1 {
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
+h2 {
+    font-size: large;
+    opacity: 0.6; 
+    font-size: x-large;
+}
+p {
+    font-size: x-large;
+    font-style: unset; 
+}
+#discos{
+    font-style: initial;
+    font-size: x-large;
+    width: 50px;
+    height: 50px;
 }
